@@ -1,10 +1,6 @@
 # game
 🎮 | Gaming guideline documents maintained by @mussalini13
 
+## Rules related to the game
 
-waefawe
-aw
-ef
-awef
-awe
-f
+- CS: [readme.md](./cs.md)
